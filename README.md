@@ -14,4 +14,4 @@ train.py & train.ipynb: The python code for training.
 The training result of the project, including filename, true label and predicted label.
 
 ## Report
-report.pdf: The report for this homework.
+report.pdf: The report for this project.
