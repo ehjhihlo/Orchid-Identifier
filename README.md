@@ -3,7 +3,7 @@ A Deep Learning Model to Identify Wild Orchids of Taiwan
 
 ## Dataset
 Dataset can be downloaded from  
-https://drive.google.com/drive/folders/1tfILR7tSIv_5PV8HaUa7yx7F8jUPkYv8?usp=sharing
+https://drive.google.com/drive/folders/1tfILR7tSIv_5PV8HaUa7yx7F8jUPkYv8?usp=sharing  
 The dataset including train(Including 935 pictures), test(Including 166 pictures), and
 label_versus_Orchid_name.xlsx, the label and the corresponding Orchid name.
 
