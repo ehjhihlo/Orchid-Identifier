@@ -21,7 +21,8 @@ train.py & train.ipynb: The python code for training.
 ## Training result
 The training result folder includes the training result of the project.  
 The csv file includes image filename, true label and predicted label.  
-The training accuracy are shown below:  
+The training accuracy are shown below:
+
 | Epoch   | Train_accuracy | Validation_accuracy |
 |:----:|:--------------:|:------------:|:-----------:|
 | 1  | 0.43061 | 0.87080 |
