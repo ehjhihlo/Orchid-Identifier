@@ -11,10 +11,13 @@ label_versus_Orchid_name.xlsx, the label and the corresponding Orchid name.
 ![image](https://github.com/ehjhihlo/Orchid-Identifier/blob/main/image/train_set.png?raw=true)  
 ### **Testing Dataset**  
 ![image](https://github.com/ehjhihlo/Orchid-Identifier/blob/main/image/test_set.png?raw=true)  
-
+  
 ## Code
 train.py & train.ipynb: The python code for training.
 
+### **The input image after normalization**  
+![image](https://github.com/ehjhihlo/Orchid-Identifier/blob/main/image/1_batch_normalized.png?raw=true)  
+  
 ## Training result
 The training result of the project, including filename, true label and predicted label.
 
