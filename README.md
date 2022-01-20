@@ -24,7 +24,7 @@ The csv file includes image filename, true label and predicted label.
 The training accuracy are shown below:
 
 | Epoch   | Train_accuracy | Validation_accuracy |
-|:----:|:--------------:|:------------:|:-----------:|
+|:----:|:-----:|:-------:|
 | 1  | 0.43061 | 0.87080 |
 | 2  | 0.75104 | 0.85119 |
 | 3  | 0.88098 | 0.90476 |
