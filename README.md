@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1tfILR7tSIv_5PV8HaUa7yx7F8jUPkYv8?usp=sha
 The dataset including train(Including 935 pictures), test(Including 166 pictures), and
 label_versus_Orchid_name.xlsx, the label and the corresponding Orchid name.
 
-!image[https://github.com/ehjhihlo/Orchid-Identifier/blob/main/image/test_set.png?raw=true]
+![image](https://github.com/ehjhihlo/Orchid-Identifier/blob/main/image/test_set.png?raw=true)
 
 ## Code
 train.py & train.ipynb: The python code for training.
